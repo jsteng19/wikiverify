@@ -1,0 +1,1184 @@
+http://informahealthcare.com/bty
+ISSN: 0738-8551 (print), 1549-7801 (electronic)
+Crit Rev Biotechnol, Early Online: 1–12
+! 2013 Informa Healthcare USA, Inc. DOI: 10.3109/07388551.2013.823595
+REVIEW ARTICLE
+An overview of the last 10 years of genetically engineered crop safety
+research
+Alessandro Nicolia1
+*, Alberto Manzo2
+, Fabio Veronesi1
+, and Daniele Rosellini1
+1
+Department of Applied Biology, Faculty of Agriculture, University of Perugia, Perugia, Italy and 2
+Ministry of Agriculture, Food and Forestry Policies
+(MiPAAF), Rome, Italy
+Abstract
+The technology to produce genetically engineered (GE) plants is celebrating its 30th anniversary
+and one of the major achievements has been the development of GE crops. The safety of GE
+crops is crucial for their adoption and has been the object of intense research work often
+ignored in the public debate. We have reviewed the scientific literature on GE crop safety
+during the last 10 years, built a classified and manageable list of scientific papers, and analyzed
+the distribution and composition of the published literature. We selected original research
+papers, reviews, relevant opinions and reports addressing all the major issues that emerged
+in the debate on GE crops, trying to catch the scientific consensus that has matured since GE
+plants became widely cultivated worldwide. The scientific research conducted so far has not
+detected any significant hazards directly connected with the use of GE crops; however, the
+debate is still intense. An improvement in the efficacy of scientific communication could have
+a significant impact on the future of agricultural GE. Our collection of scientific records is
+available to researchers, communicators and teachers at all levels to help create an informed,
+balanced public perception on the important issue of GE use in agriculture.
+Keywords
+Biodiversity, environment, feed, food, gene
+flow, –omics, substantial equivalence,
+traceability
+History
+Received 17 December 2012
+Revised 24 June 2013
+Accepted 24 June 2013
+Published online 13 September 2013
+Introduction
+Global food production must face several challenges such as
+climate change, population growth, and competition for arable
+lands. Healthy foods have to be produced with reduced
+environmental impact and with less input from non-renewable
+resources. Genetically engineered (GE) crops could be an
+important tool in this scenario, but their release into the
+environment and their use as food and feed has raised
+concerns, especially in the European Union (EU) that has
+adopted a more stringent regulatory framework compared to
+other countries (Jaffe, 2004).
+The safety of GE crops is crucial for their adoption and
+has been the object of intense research work. The literature
+produced over the years on GE crop safety is large (31 848
+records up to 2006; Vain, 2007) and it started to accumulate
+even before the introduction of the first GE crop in 1996. The
+dilution of research reports with a large number of commentary
+papers, their publication in journals with low impact factor and
+their multidisciplinary nature have been regarded as negative
+factors affecting the visibility of GE crop safety research (Vain,
+2007). The EU recognized that the GE crop safety literature is
+still often ignored in the public debate even if a specific peerreviewed journal (http://journals.cambridge.org/action/
+displayJournal?jid=ebs) and a publicly accessible database
+(http://bibliosafety.icgeb.org/) were created with the aim of
+improving visibility (European Commission, 2010).
+We built a classified and manageable list of scientific papers
+on GE crop safety and analyzed the distribution and composition of the literature published from 2002 to October 2012.
+The online databases PubMed and ISI Web of Science were
+interrogated to retrieve the pertinent scientific records (Table
+S1 – Supplementary material). We selected original research
+papers, reviews, relevant opinions and reports addressing all
+the major issues that emerged in the debate on GE crops. The
+1783 scientific records collected are provided in .xls and .ris
+file formats accessible through the common worksheet programs or reference manager software (Supplementary materials). They were classified under the scheme given in Table 1,
+according to the major issues emerging from the literature.
+Beyond a numerical analysis of the literature, we provide a
+short explanatory summary of each issue.
+General literature (GE gen)
+Here we group all the reviews and critical comments offering
+a broad view of the issues concerning the release of the GE
+crops into the environment and their use as food and feed,
+including the regulatory frameworks and risk assessment
+procedures.
+*Present address: Department of Plant Breeding, Swedish University of
+Agricultural Sciences, Alnarp, Sweden
+Address for correspondence: Alessandro Nicolia, Department of Plant
+Breeding, Swedish University of Agricultural Sciences, Box 101, 230 53
+Alnarp, Sweden. E-mail: alessandro.nicolia@gmail.com
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+The weight of the GE gen section, in terms of number
+or records, is low in our database (9.3% – 166/1783) compared
+to GE env (47.5% – 847/1783) and GE food&feed (43.2% –
+770/1783) (Table 1). The literature grouped in GE gen reflects
+the difference between the EU and the US regulatory frameworks: the former is based on the evaluation of the process by
+which the GE crop is obtained and the application of the
+precautionary principle, the latter is based on the evaluation of
+the product. The adoption of such different concepts resulted in
+the need for new legislation and new authorities in the EU,
+whereas in the US new regulations were integrated into the
+existing legislation and institutions (Jaffe, 2004).
+Other countries have been inspired by these two systems
+in developing their own regulatory framework (Ramessar
+et al., 2008). As a result, the regulations on the release of GE
+crops into the environment and their use as food and feed
+are not uniform (Go´mez-Galera et al., 2012; Jaffe, 2004;
+McHughen & Smyth, 2008; Ramessar et al., 2008). This lack
+of harmonization, and the frequent non-scientific disputes in
+the media that are not balanced by an effective communication from the scientific and academic world, greatly contribute to enhance the concerns on GE crops.
+The EU funded more than 50 research programs in 2001–
+2010, for a total budget of 200 million euros, with the intent
+to gain new scientific evidence addressing the public concern
+on the safety of GE crops. A summary report of these programs
+highlighted that the use of biotechnology and of GE plants per
+se does not imply higher risks than classical breeding methods
+or production technologies (European Commission, 2010).
+Interaction of GE crops with the environment
+(GEenv)
+Biodiversity
+Biodiversity preservation is unanimously considered a priority by the scientific community and society at large. This
+topic is predominant in GE env (68.4%) throughout the
+decade (Table 1; Figure 1). The literature is highly heterogeneous, since the potential impact of GE crops on biodiversity can be investigated at different levels (crop, farm and
+landscape) and different organisms or microorganisms (target
+and non-target) can be considered.
+The GE crops commercialized so far are herbicide
+and/or pest resistant. Glyphosate tolerance obtained by
+Figure 1. Main topics of the scientific papers
+belonging to the GE env group.
+Table 1. Classification of 1783 scientific records on GE crop safety published between 2002 and 2012.
+Topic No. of papers %*
+General literature (GE gen) 166 9.3
+Interaction of GE crops with the environment (GE env) 847 47.5
+Biodiversity 579 32.5
+Gene flow 268 15
+Gf – Wild relatives 113 6.3
+Gf – Coexistence 96 5.4
+Gf – Horizontal gene transfer in soil 59 3.3
+Interaction of GE crops with humans and animals (GE food&feed) 770 43.2
+Substantial equivalence 46 2.6
+Non-targeted approaches to equivalence assessment 107 6
+GE food/feed consumption 312 17.5
+Traceability 305 17.1
+*Percentage of the total number of collected papers.
+2 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+expressing an Agrobacterium tumefaciens enolpyruvyl shikimate 3-phosphate synthase (EPSPS), and the production
+of insecticidal proteins derived from Bacillus thuringiensis
+(Bt), are by far the most widespread GE traits.
+The literature considering the effects on biodiversity of
+non-target species (birds, snakes, non-target arthropods,
+soil macro and microfauna) is large and shows little or no
+evidence of the negative effects of GE crops (Carpenter, 2011
+and references therein; Raven, 2010; Romeis et al., 2013).
+Two reviews about pest resistant GE crops published by Lo¨vei
+et al. (2005, 2009) reported negative impacts on non-target
+arthropods; however, these reports have been criticized
+mainly for the statistical methods and the generalizations
+between crops expressing Bt proteins (commercialized),
+proteinase inhibitors (only a transgenic cotton line SGK321
+present in the Chinese market) and lectins (not commercialized) (Gatehouse, 2011; Shelton et al., 2009). Negative
+impacts of Bt plants on non-target arthropods and soil
+microfauna have not been reported in recent papers (e.g.
+de Castro et al., 2012; Devos et al., 2012; Lu et al., 2012;
+Verbruggen et al., 2012 Wolfenbarger et al., 2011). Indeed,
+the positive impacts have been emphasised.
+If we consider the effect of GE crops on the target species,
+weeds or pests, a reduction of biodiversity is obviously
+expected and necessary for the success of the crop. For
+instance, cases of area-wide pest suppression due to the
+adoption of Bt crops (where also the non-adopters of GE crops
+received beneficial effects), have been reported (Carpenter,
+2011 and references therein). This is also the case of the UK
+Farm Scale Evaluations (FSE), a series of studies which
+highlighted that the adoption of a management system based on
+herbicide tolerant GE crops generally resulted in fewer weeds
+and weed seeds. These results have been used as proof of the
+negative environmental impact of herbicide tolerant crops, but
+indeed they demonstrate the effectiveness of such a management system (Carpenter, 2011 and references therein). On the
+other hand, higher reductions on biodiversity is generally
+expected with non-GE crops and herbicide/insecticide applications, because the chemicals used are often more toxic and
+persistent in the environment (Ammann, 2005).
+Concerns have been raised about possible outbreak of
+resistant populations of target species due to the high selection
+pressures produced by the repetitive sowing of GE herbicide
+and pest resistant crops. Glyphosate resistant weeds have
+been reported (Shaner et al., 2012), as well as Bt resistant
+pests (Baxter et al., 2011; Gassman et al., 2011). Glyphosate
+tolerance appears more relevant because, while new Bt
+proteins are available which can be combined in strategies
+of stacking, or pyramiding, to reduce the risks of insect
+resistance (Sanahuja et al., 2011), it seems difficult to find
+herbicides equivalent to glyphosate in terms of efficacy
+and environmental profile; therefore, proper management of
+weed control is necessary (Shaner et al., 2012).
+Gene flow
+In an agricultural context, gene flow can be defined as
+the movement of genes, gametes, individuals or groups of
+individuals from one population to another, and occurs
+both spatially and temporally (Mallory-Smith & Sanchez
+Olguin, 2011). For instance, GE crop plants may be capable
+of surviving through seed or asexual propagules for years in
+the field, or they may be able to fertilize sexually compatible
+non-GE plants (non-GE crop or wild relative plants). The
+occurrence of gene flow may lead to the spread and persistence of transgenes into the environment or the market.
+We have subdivided this topic into three subgroups: gene
+flow to wild relatives (Gf – Wild relatives), to other crops
+(Gf – Coexistence) or to microorganisms (Gf – Horizontal
+gene transfer in the soil). The literature on Gene flow
+makes up 31.6% of the GEenv literature and is clearly a ‘‘hot
+topic’’ because its share increased considerably after 2006
+(Table 1; Figure 1).
+Gf – Wild relatives
+This topic represents 42.2% of the Gene flow literature
+(Table1; Figure 1). For estimating the gene flow to wild
+relatives, the knowledge of several factors is necessary: the
+reproductive biology of the GE crop, the presence or absence
+of sexually compatible wild relatives within the reach of GE
+pollen, and the reproductive biology and the fitness of any
+hybrid.
+The formation of hybrids between GE crops and wild
+relatives is possible and documented (Londo et al., 2010;
+Mizuguti et al., 2010). Hybrid fitness determines the chance
+of transgene introgression, that is, permanent incorporation
+into the wild receiving population, which was reported in
+some cases (Reichman et al., 2006; Schoenenberger et al.,
+2006; Warwick et al., 2008). The risk of introgression should
+be evaluated case-by-case, considering the features of the
+transgene(s) incorporated into the GE crop.
+The presence of spontaneous populations of GE canola
+with multiple herbicide resistance genes, probably due to
+multiple events of hybridization, has been reported (Schafer
+et al., 2011). Zapiola and Mallory-Smith (2012) recently
+described a new herbicide tolerant intergeneric hybrid of
+transgenic creeping bentgrass. Other cases have been
+reviewed (Chandler & Dunwell, 2008). Pest-resistant GE
+crops (i.e. Bt crops) may pose more risks than herbicideresistant crops, because the introgression of a pest resistance
+transgene may confer fitness advantages to wild plants. Pest
+resistant wild plant populations may in turn exert selective
+pressure on the pest populations even in the absence of
+transgenic crops.
+Strategies to mitigate the effect of the transgene(s) in preand post -hybridization phases have been proposed (e.g. male
+sterility, delayed flowering, genes that reduce fitness).
+However, none of them can be considered completely
+effective for transgene containment and complete segregation
+of GE crops is not possible. In any case, there is no evidence
+of negative effects of transgene introgression so far (Kwit
+et al., 2011).
+It should be kept in mind that the gene flow between
+cultivated and wild species and its impact on biodiversity is
+an issue that exists independently of GE crops. The literature
+is rich in examples of natural invasive hybrids, disappearance
+of local genotypes (genetic swamping) and resistance to
+herbicides appearing in wild populations due to natural
+mutation (Kwit et al., 2011).
+DOI: 10.3109/07388551.2013.823595 An overview of the last 10 years of GE crop safety research 3
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+Gf – Coexistence
+Gene flow from a GE to a non-GE crop can lead to an
+unwanted presence of the transgene in non-GE products.
+This issue involves not only the movement of pollen, but also
+the seeds that could remain in the field and give rise to
+volunteers, and the mechanical admixture of materials
+occurring during harvest, transportation and storage. The
+establishment of populations becoming partially wild (ferals)
+functioning as a natural reservoir of the transgene must also
+be considered, as well as the survival chances of the GE crops
+in the wild.
+The coexistence issue goes beyond the matter of gene
+flow and involves several social and economic aspects, such
+as the manageability of complex agricultural scenarios
+where different agricultural systems (organic, conventional
+and biotech) coexist and a full traceability system is in force.
+The collected records on coexistence account for 35.8%
+of the Gene flow literature and their number increased
+significantly after 2006 (Table 1; Figure 1). Even in the US,
+the coexistence issue is becoming actively discussed (http://
+www.gmo-compass.org/eng/news/548.docu.html).
+Strategies of coexistence have been investigated for several
+species, such as maize (Devos et al., 2008; Langhof et al.,
+2010; Ru¨hl et al., 2011), canola (Colbach, 2008; Gruber et al.,
+2005), soybean (Gryson et al., 2009), flax (Jhala et al., 2011),
+wheat (Foetzki et al., 2012), potato, cotton and sugar beet
+(European Commission, 2006). Maize has been the most
+intensively studied crop, followed by canola and wheat.
+Isolation distances, harvesting and post-harvesting practices
+have been proposed in order to avoid unwanted mixing of GE
+and non-GE-crop.
+The feasibility of a coexistence plan is not only evaluated
+from a scientific point of view but also considering the extra
+economic costs due to the containment practices; such
+extra costs must find compensation in extra income from
+GE crops (Demont & Devos, 2008). In the EU, the scenario
+on coexistence is very poor currently, considering that
+only three GE crops are authorized for cultivation
+(MON 810 and T25 maize and ‘‘Amflora’’ potato), with
+only MON810 actually commercialized, and Spain accounting for 87% of the entire cultivated surface with GE crops
+(James, 2011).
+Gf – Horizontal gene transfer in soil
+Soil microorganisms may uptake the transgene(s) present
+into the GE crop. In fact, bacteria are naturally capable of
+acquiring genetic material from other organisms through
+horizontal gene transfer (HGT). To obtain a GE plant it can be
+necessary to introduce a gene that makes it possible to select
+the transgenic cells in tissue culture, by giving them an
+advantage over the non-transgenic cells. This is frequently
+achieved with bacterial antibiotic resistance genes that play
+the role of selectable marker genes (SMGs, recently reviewed
+by Rosellini, 2012). SMG presence in GE crops is not
+necessary in the field, and it has raised concerns about the
+spread of antibiotic resistance genes into the environment and
+their consumption as food or feed (see below).
+The transfer of these genes to bacteria and the possible outbreak of ‘‘super pathogenic bacteria’’ resistant to antibiotics
+has been a matter of detailed investigation by the scientific
+community. The number of publications on this topic
+accounts for 22% of the Gene flow literature, with a stable
+presence in recent years (Table 1; Figure 1).
+The results obtained so far clearly indicate that soil
+bacteria can uptake exogenous DNA at very low frequency
+(10!4 to 10!8
+) in laboratory experiments (Ceccherini et al.,
+2003; de Vries et al., 2003), whereas experiments in the field
+did not show any evidence of HGT (Badosa et al., 2004;
+Demane`che et al., 2008, 2011; Ma et al., 2011). Moreover,
+in the unlikely event that soil bacteria acquired the resistance
+to an antibiotic among those currently used in the laboratory
+to select GE plants, this would not affect the population
+of natural antibiotic resistant bacteria already present in the
+soil (D’Costa, 2006; Forsberg et al., 2012) or imply any
+additional risk for human and animal health.
+The substitution of antibiotic SMGs with plant-derived
+genes (Rosellini, 2011, 2012), their elimination (Ferradini
+et al., 2011 and references therein) and in general the
+elimination of any unwanted DNA sequence in the final GE
+crop is recommended (EFSA, 2011), as proposed with new
+approaches to plant genetic engineering such as the so-called
+intragenic (Nielsen, 2003; Rommens, 2004) or cisgenic
+(Jacobsen & Schouten, 2007) techniques.
+Interaction of GE crops with humans and animals
+(GE food&feed)
+Substantial equivalence
+One of the crucial aspects of the risk assessment procedure
+for a GE crop is to verify if the insertion and/or the expression
+of the transgene produces alterations in the host organism.
+The concept of substantial equivalence implies that the GE
+crop be compared with an isogenic counterpart, that is, the
+same genotype without the transgene(s).
+The demonstration of substantial equivalence is a two-step
+procedure. First, the GE crop is assessed for agronomic,
+morphological and chemical characteristics, such as macroand micro-nutrients, anti-nutrients and toxic molecules.
+The results of this analysis will provide information on the
+necessity for further analysis of the nutritive value. Any
+difference which falls within the range of the normal
+variability for the crop is considered safe (Colquhoun et al.,
+2006; EFSA, 2011). This methodology has been agreed
+internationally (Codex, FAO, OECD, WHO) and involves the
+quantification of selected molecules, in a so-called ‘‘targeted
+approach’’ (Kok & Kuiper, 2003). If compositional differences are detected, then they have to be assessed with respect
+to their safety (Ramessar et al., 2007; EFSA, 2011).
+The principle of substantial equivalence has been used for
+risk assessment of the GE crops commercialized so far
+(Kier & Petrick, 2008; Ko¨nig et al., 2004) and the results
+support the fact that these crops are equivalent to their nontransgenic counterparts (Parrot et al., 2010).
+Concerns have been expressed about the efficacy of
+the method for detecting unintended effects. Field comparisons in multiple locations have been recommended in order
+to minimize the differences due to the environmental effects
+and large data collections have been created (www.
+cropcomposition.org).
+4 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+It is noteworthy that substantial equivalence represents an
+important common ground of the process-based and productbased regulatory frameworks. This clearly indicates a large
+consensus amongst scientists worldwide on GE crop evaluation (Kok et al., 2008). Substantial equivalence accounts for
+6% of the scientific records collected in GE food&feed
+(Table 1; Figure 2). The literature is composed mainly by the
+publications produced by the companies that developed the
+GM cultivars, as part of the authorization process for
+commercialization. Public availability of the data on which
+these studies are based should be guaranteed.
+Nontargeted approaches to equivalence assessment
+The targeted approach to substantial equivalence assessment
+has an obvious limitation in the number of compounds
+that are analyzed. On the contrary, the so-called ‘‘–omic’’
+approaches (transcriptomics, proteomics, metabolomics) can
+analyze a larger number of molecules (Kier & Petrick, 2008).
+Several GE crops were compared to their isogenic counterparts using –omic approaches and in some cases differences
+were observed. However, the interpretation of these results is
+difficult due to the non-homogeneity of the experimental
+designs. Moreover, the differences emerging from the –omic
+analyses have to be cleaned up from the environmental
+effects and their biological relevance weighted in terms
+of food and feed safety (Ricroch et al., 2011 and references
+therein).
+It appears that the application of the –omics methods as
+standard procedure in the risk assessment of GE crop does not
+actually provide manageable information, and needs further
+development and validation. In this scenario, the substantial
+equivalence concept remains a robust and safe reference to
+determine the presence of unintended effects (European
+Commission, 2010). The weight of the nontargeted assessment topic increased significantly over the years, especially in
+2009–2011 leading to a significant number of publications
+(13.9%) (Table 1; Figure 2).
+GE food/feed consumption
+The scientific records grouped under this topic are numerous
+and constitute 40.5% of the GE food&feed literature, clearly
+indicating the importance of the human health issues. The
+distribution over the year is uniform, but a peak was observed
+in 2008, probably due to the scientific fervors that followed
+the publication of experimental studies conducted by the
+private companies after 2006 (Table 1; Figure 2). According
+to the literature, the concerns about GE food/feed consumption that emerge from the scientific and social debates can be
+summarized as follows: safety of the inserted transgenic DNA
+and the transcribed RNA, safety of the protein(s) encoded by
+the transgene(s) and safety of the intended and unintended
+change of crop composition (Dona & Arvanitoyannis, 2009;
+Parrot et al., 2010).
+Safety of the inserted transgenic DNA and the transcribed
+RNA
+DNA. It is estimated that, with a normal diet, humans
+consume between 0.1 and 1 g of DNA/day from different
+sources (e.g. meat, vegetables) (Parrot et al., 2010).
+This DNA is partly digested, but it can also stimulate
+the immune-system or promote bacterial biofilm formation
+(Rizzi et al., 2012). The DNA sequences that drive the
+expression of the transgenes in the plant cell are generally
+derived from viruses or bacteria. Concerns have been
+expressed on the possibility that the transgenic DNA may
+resist the digestion process, leading to HGT to bacteria
+living in the gastrointestinal (GI) tract, or translocation
+and accumulation into the human body and food products
+from livestock animals. Some considerations can help to put
+this issue in context:
+(a) transgenic DNA is enormously diluted by the total
+amount of ingested DNA (from 0.00006% to 0.00009%)
+and is digested like any other DNA (Parrot et al., 2010).
+In addition, food processing (e.g. baking, frying, boiling)
+Figure 2. Main topics of the scientific papers
+belonging to the GE food&feed group.
+DOI: 10.3109/07388551.2013.823595 An overview of the last 10 years of GE crop safety research 5
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+usually results in DNA degradation (Gryson, 2010; Rizzi
+et al., 2012) further reducing the amount of intact DNA;
+(b) HGT of transgenic DNA to GI bacteria of human and
+animals is estimated to be an extremely rare event, as
+confirmed by all the experiments conducted so far
+(Rizzi et al., 2012). In the unlikely case that this event
+occurs, the worst scenario is characterized by the HGT
+of antibiotic resistance genes to GI bacteria, making
+them resistant to clinical therapies. However, the antibiotic resistance genes found into GE crops today do not
+present any significant risk to human or animal health
+(Ramessar et al., 2007), and they are already naturally
+present into the environment and/or the human/animal
+GI (EFSA, 2011; Wilcks & Jacobsen, 2010).
+(c) DNA fragments can be transferred across the GI barrier.
+This natural phenomenon has been demonstrated only
+for high-copy-number genes that have been detected in
+internal organs, tissues and blood of different animals and
+even in cow milk (Parrot et al., 2010; Rizzi et al., 2012;
+van de Eede et al., 2004 and references therein).
+In humans, the transfer through the GI tract of a highcopy-number gene from rabbit meat has been reported
+(Forsman et al., 2003).
+(d) Transgenic DNA transfer through the GI tract has
+been reported in the literature in pig, lamb and rainbow
+trout (Chainark et al., 2006, 2008; Mazza et al., 2005;
+Sharma et al., 2006;), but in micro quantities and in
+the case of pigs and lambs with questionable reproducibility due to possible cross contamination (Walsh et al.,
+2011).
+(e) In most studies conducted so far, no fragments of
+transgenic DNA were detected in any animal-derived
+products (ILSI, 2008). Only in one case, the presence of
+transgenic DNA in both ‘‘organic’’ and ‘‘conventional’’
+cattle milk has been reported (Agodi et al., 2006).
+(f) No evidence has been obtained to date that DNA
+absorbed through the GI tract can be integrated into the
+cells of the host organism and lead to a germ line transfer.
+It can be concluded that transgenic DNA does not differ
+intrinsically or physically from any other DNA already
+present in foods and that the ingestion of transgenic DNA
+does not imply higher risks than ingestion of any other type
+of DNA (European Commission, 2010).
+RNA. Along with the DNA also the corresponding transcribed RNAs are ingested and in general the content of DNA
+and RNA in foods are roughly comparable (Parrot et al.,
+2010). In the light of recent scientific evidence (Zhang et al.,
+2012a discussed below) concerns have been expressed about
+the potential effects that certain types of RNA (small doublestrand RNAs, dsRNAs) introduced in some GE crops
+(e.g. virus resistant, altered oil composition) could have on
+human/animal health.
+The function of such dsRNAs is not to be translated into
+proteins but to mediate gene regulation through a mechanism
+termed RNA interference (RNAi). The general mechanism
+of RNAi is conserved across eukaryotes and is triggered
+by different types of dsRNAs including small interfering
+RNA (siRNAs) and microRNAs (miRNAs) (Melnyk et al.,
+2011).
+Recently, Zhang et al., (2012a) reported the first evidence
+of transfer, through the mouse GI tract, of a food-derived
+exogenous miRNA (MIR168a) naturally abundant in rice
+and previously detected also in human blood. This study
+highlights the unexpected resistance of the rice MIR168a to
+heat treatment during cooking and to digestion during
+the transit through the GI tract in the mouse. Moreover,
+the authors showed significant activity of the MIR168a on the
+RNAi-mediated regulation of a protein involved in the
+removal of low-density lipoprotein (LDL) in liver cells
+(Zhang et al., 2012a). This evidence is still the object
+of debate at the scientific level and a summary of the major
+issues are reported here:
+(a) miRNAs are naturally present in both animal and
+plant derived foods/feeds and with a reported similarity
+to human genes (Ivashuta et al., 2009; Petrick et al.,
+2013);
+(b) Petrick et al. (2013) pointed out that previous studies
+on feeding rats with rice (Zhou et al., 2011, 2012) failed
+to provide evidence on any alteration on LDL. However,
+such studies may be difficult to compare as they were
+conducted on another species of rodent and with different
+methodological approaches (e.g. different fasting of the
+animals and composition of the diet);
+(c) although the systemic transmission of dsRNAs has
+been demonstrated in plants, worms and insects, such
+transport in mammals is still largely unknown (Melnyk
+et al., 2011). In humans, the presence of endogenous
+miRNAs has been documented in microvesicles
+circulating in the bloodstream and their role in intercellular communication is currently under investigation
+(Mittelbrunn & Sa´nchez-Madrid, 2012 and references
+therein);
+(d) the results presented by Zhang et al. (2012a) are not in
+agreement with that documented in numerous clinical
+trials involving oral delivery of small RNA molecules.
+The stability of the dsRNAs in the GI tract and an
+efficient absorption through the mucosa in order to
+reach the active concentration of the molecule in the
+bloodstream, are still the limiting factors in this therapeutic approach (Petrick et al., 2013 and references
+therein);
+(e) some miRNAs are active even at low concentrations
+and plant miRNAs seem to differ structurally from mammalian miRNAs (Yu et al., 2005; Zhang et al. 2012a;
+http://www.the-scientist.com/?articles.view/articleNo/
+31975/title/Plant-RNA-Paper-Questioned/);
+(f) interestingly, Zhang et al. (2012b) detected the MIR168a
+sequence as predominant or sole plant miRNA in public
+animal small RNA datasets including insects. The authors
+point out that this may be an artifact due to the
+sequencing methodology employed (i.e. cross-contamination of the multiplexed libraries).
+It can be concluded, that the RNA in general has the same
+‘‘history of safe use’’ as DNA, since it is a normal component
+of the diet (Parrot et al., 2010). However, further investigations are necessary to clarify whether the evidence about the
+MIR168a is due to its unique properties or such conclusions
+can also be extended to other dsRNAs molecules contained in
+food/feed.
+6 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+Safety of the proteins encoded by the transgenes
+The expression of the introduced gene(s) leads to biosynthesis
+of one or more proteins. The ingestion of transgenic proteins
+has posed some questions about their possible toxic or
+allergenic effects in humans and animals. The safety of each
+transgenic protein is evaluated by means of the following
+analyses:
+– bioinformatic analysis to assess the similarity with known
+allergens, toxic proteins and bioactive peptides;
+– functional stability to pH and temperature;
+– in vitro digestibility using simulate mammalian gastric
+fluid and simulated mammalian intestinal fluid, following the principle that a digested protein is less likely to be
+allergenic and absorbed in a biologically active form;
+– protein expression level and dietary uptake, to estimate
+exposure of humans or animals to the protein;
+– single dose (acute) toxicity testing and repeated dose
+(sub-chronic) toxicity testing in rodents using the
+purified transgenic protein, to predict in vivo possible
+toxic outcome in humans (Delaney et al., 2008; EFSA,
+2008).
+The results of these analyses are usually part of the
+documentation that GE crops developers submit to the
+competent authorities during the approval phase (risk assessment) that precede the commercialization of a GE crop. These
+data are not always made accessible by the companies or
+the competent authorities or published on peer-reviewed
+journals (Jaffe, 2004). However, as indicated by the significant increment of the publications after 2006, it seems that
+the GE crop developers acknowledged the necessity of an
+improved transparency (Domingo & Bordonaba, 2011). The
+experimental data collected so far on authorized GE crops can
+be summarized as follows:
+(a) there is no scientific evidence of toxic or allergenic
+effects;
+(b) some concern has been raised against GE corn MON
+810, MON863 and NK603 (de Vendoˆmois et al., 2009;
+Se´ralini et al., 2007, 2012), but these experimental results
+have been deemed of no significance (EFSA 2007, 2012;
+Houllier, 2012; Parrot & Chassy, 2009);
+(c) only two cases are known about the potential allergenicity of transgenic proteins, the verified case of the brazilnut storage protein in soybean, which has not been
+marketed (Nordlee et al., 1996) and the not verified case
+of maize Starlink (Siruguri et al., 2004);
+(d) during the digestion process the proteins generally
+undergo degradation that leads to the loss of activity
+(Delaney et al., 2008);
+(e) even though there are examples of some ingested proteins
+that are absorbed in minute quantities in an essentially
+intact form (e.g. ovalbumin, ovomucoid, b-lactoglobulin)
+(Kier & Petrick, 2008) or proteins that are hydrolyzed
+into smaller absorbed bioactive peptides (Udenigwe &
+Aluko, 2012), the consumption of transgenic proteins
+contained in the authorized GE crop does not result in
+any detectable systemic uptake (Kier & Petrick, 2008)
+and transgenic proteins are usually rapidly degraded and
+not detectable in animal derived products (e.g. milk,
+meat, eggs) (Ramessar et al., 2007);
+(f) pre-screening of transgenic proteins through bioinformatic analyses contributes to avoid the introduction of
+potentially toxic, allergenic or bioactive proteins into
+food and feed crops (Delaney et al., 2008; Gibson, 2006;
+Ladics et al., 2011);
+(g) the application of the concept of ‘‘history of safe use’’
+to the choice the transgene donor organisms may
+increase intrinsic safety and simplify safety assessment
+procedures.
+Safety of the intended and unintended changes of crop
+composition
+Safety of the introduced change in the GE crop is usually
+evaluated during the determination of compositional equivalence (Section ‘‘Substantial equivalence’’). However, on a
+case-by-case basis, additional analyses can be requested, such
+as that of processed foods or feeds, nutritional equivalence
+and 90-day rodent feeding tests with whole GE food or feed
+(EFSA, 2008, 2011).
+A useful distinction can be introduced here between GE
+crops modified for input traits (e.g. herbicide or insect
+resistance) and GE crops with enhanced nutritional characteristics (e.g. increased vitamin content). For the former, the
+experience suggests that, once the compositional equivalence
+has been verified, little can be added by the other types
+of analysis, and nutritional equivalence can be assumed
+(EFSA, 2011).
+On the contrary, for GE crops with improved nutritional
+characteristics, the nutritional equivalence cannot be
+assumed, and a nutritional animal feeding test using rapidly
+growing animals (e.g. broilers) should be conducted to
+demonstrate the intended nutritional effect. The high sensitivity of rapidly growing animals to toxic compounds may
+also help to detect unintended effects. The 90-day rodent
+feeding test is generally performed when the composition is
+modified substantially or if there are indications of potential
+unintended effects.
+Only GE crops modified for agronomic traits have
+been authorized for commercialization so far, with the only
+exception of the ‘‘Amflora’’ potato (event EH92-527-1),
+intended for industrial purpose but authorized also for feed
+and nonintended consumption (http://ec.europa.eu/food/dyna/
+gm_register/gm_register_auth.cfm?pr_id=39).
+It is noteworthy that, at the moment, the route to the
+authorization of GE crops intended only for industrial
+purposes is not fully clarified by the legislation. However,
+the results of animal tests are routinely presented to
+the European safety assessment authorities, even if not
+explicitly required (http://www.gmo-compass.org/eng/safety/
+human_health/41.evaluation_safety_gm_food_major_underta
+king.html).
+Recently, Podevin & Jardin (2012) pointed out that the
+viral promoter P35S, isolated from the cauliflower mosaic
+virus (CaMV) and used in several GE crops to achieve strong
+and constitutive expression of the transgene/s, partially
+overlaps with the CaMV viral gene VI. In some long variants
+of the P35S promoter this could potentially lead to the
+production of a residual viral protein. The use of the short
+version of the promoter is therefore recommended, even if the
+DOI: 10.3109/07388551.2013.823595 An overview of the last 10 years of GE crop safety research 7
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+bioinformatics analysis of the viral protein has not revealed
+any relevant similarity with known allergens (Podevin &
+Jardin, 2012).
+An issue emerged about whether the combination of more
+GE traits in a single crop (GE stacks) may introduce changes
+that require additional safety assessment. Once safety of the
+single traits has been established independently, their combination should be evaluated in terms of stability, expression
+and possible interactions (EFSA, 2011). Weber et al. (2012)
+pointed out that GE stacks do not impose any additional risks
+in terms of transgene stability and expression, whereas
+attention should be focused only on the possible interactions
+between different traits.
+Traceability
+This is clearly a ‘‘hot topic’’ in GE food&feed (39.6%)
+(Table 1), with the publication rate after 2005 being
+high and constant (Figure 2). Traceability is defined in the
+EU General Food Law Regulation 178/2002/EC, inspired
+to the ISO standard, as the ‘‘ability to trace and follow
+food, feed, food producing animals and other substances
+intended to, or expected to, be incorporated into food or
+feed, through all stages of production, processing and
+distribution’’.
+Traceability is a concept already widely applied to non-GE
+food/feed and it is not connected with their safety (Davison &
+Bertheau, 2007). It may include mandatory or voluntary
+labeling for the foods or feeds that contain or consist of GE
+crops or derived products. Labeling implies the definition of a
+threshold value, above which the food/feed is labeled
+according to the regulations in force.
+The EU developed the most stringent regulatory framework for traceability of GE crops food/feed and derived
+products in the world. They have adopted mandatory labeling
+for unintentional presence of GE material in food or feed,
+with the lowest threshold value (0.9% based on the number
+of haploid genomes) compared to other countries (Davison &
+Bertheau, 2007; Ramessar et al., 2008). Labeling requires the
+detection and quantification of the GE food/feed or derived
+product in the tested food/feed or seeds or any other product
+when applicable. The scientific literature compiled about
+traceability largely deals with the following issues:
+(a) sampling procedures – there are no universally acknowledged sampling procedures (Davison & Bertheau, 2007);
+this has been the object of a EU funded research
+programme (Paoletti et al., 2006);
+(b) detection method – a large consensus has been established on qPCR (real-time quantitative PCR) -based
+methodologies that allows detection and quantification at
+the same time. Other experimental strategies and analytical methods have been proposed (e.g. microarray,
+Luminex XMAP), but they need further evaluation
+(Querci et al., 2010);
+(c) definition of reference systems – the measurement unit
+of the GE product concentration depends on the unit used
+for the certified reference material (CRM) chosen for
+the analysis. At the moment, in the EU, mass fraction
+percentages are used for the CRMs, whereas a later
+recommendation from the EU suggested to use the ‘‘copy
+number of transgenic DNA in relation to haploid
+genomes’’, the unit of the legal threshold, so the
+development of suitable CRMs is necessary (Trapmann
+et al., 2009);
+(d) detection of transgenes in mixtures composed by different ingredients, stacked transgenes and unauthorized
+events: all these issues require specific approaches
+and strategies have been proposed. The detection of the
+unauthorized events is very complex, because it could
+involve an already known transgene that did not
+receive authorization or a totally unknown GE event.
+Unfortunately, asynchronous authorization of GE crops
+or derived products in different countries does not
+improve this scenario: a higher degree of international
+harmonization would be beneficial (Holst-Jensen
+et al., 2012).
+Conclusions
+The technology to produce GE plants is celebrating its 30th
+anniversary. It has brought about a dramatic increase in
+scientific production over the years leading to high impact
+findings either in basic research (such as RNAi-mediated
+gene silencing) and applied research (GE crops), but the
+adoption of GE plants in the agricultural system has raised
+issues about environmental and food/feed safety.
+We have reviewed the scientific literature on GE crop
+safety for the last 10 years that catches the scientific
+consensus matured since GE plants became widely cultivated
+worldwide, and we can conclude that the scientific research
+conducted so far has not detected any significant hazard
+directly connected with the use of GM crops. The analysis of
+the record list shows that the Biodiversity topic dominated,
+followed by Traceability and GE food/feed consumption,
+which contributed equally in terms of the number of records
+(Table 1; Figure 3).
+It is noteworthy that the number of papers on Traceability
+has increased over the years, overcoming those on
+Biodiversity in 2011, clearly indicating an increasing
+demand for methods and protocols for transgene detection
+(Figure 3). The Gene flow issue also received increasing
+attention by the scientific community, as a response to the
+demands of the consumers connected with the coexistence
+of different productive systems (Figure 3).
+It appears that knowledge on Gene flow and GE food/feed
+consumption would have benefited from a higher number
+of publications considering their high impact on both
+environmental and food/feed risk assessment. The difficulties
+of experimental design and, in the case of Gene flow, the
+public opposition to field trials, may have discouraged
+researchers, at least in the EU.
+The literature about Biodiversity and the GE food/feed
+consumption has sometimes resulted in animated debate
+regarding the suitability of the experimental designs, the
+choice of the statistical methods or the public accessibility
+of data. Such debate, even if positive and part of the
+natural process of review by the scientific community, has
+frequently been distorted by the media and often used
+politically and inappropriately in anti-GE crops campaigns.
+In this regard, Houllier (2012) pointed out that, when
+8 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+dealing with ‘‘hot issues’’, researchers should take special
+care in following rigorous scientific standards, avoiding the
+publication of data not sufficiently peer reviewed by the
+scientific community.
+It is interesting to note that the recent increase of scientific
+publications about Traceability and Non-targeted assessment
+(Figure 3) indicates considerable attention to the detection
+systems and the search for new safety evidence about a
+relatively low number of new approved GE crops. This
+likely reflects the consolidation of a situation in which
+the EU plays mainly the role of the importer of GE crop
+products from other countries, and enforces a stringent
+regulatory system.
+In the EU, the regulatory burdens for GE crop approval are
+extremely heavy (Kalaitzandonakes et al., 2007), de facto
+excluding the public sector and minor crops from the
+development of GE technology. As a result, the number of
+experimental releases of GE crops is rapidly decreasing
+(Lo¨chte, 2012) and even large companies are abandoning GE
+(Dixelius et al., 2012; Laursen, 2012). This scenario is the
+result of the interaction of complex sociological and psychological factors, risk/benefit ratios, political aspects and an
+unbalanced scientific communication.
+All these factors have to be considered globally and
+taken into account in a constructive debate on whether the GE
+crops represent a strategic resource for the future.
+An improvement in the efficacy of the scientific communication to stakeholders, as clearly demonstrated in the case
+of the recent case of GE wheat field trials in the UK
+(Lo¨chte, 2012), could have a significant impact on the future
+of agricultural GE.
+We believe that genetic engineering and GE crops
+should be considered important options in the efforts toward
+sustainable agricultural production. Our collection of
+scientific records is available to researchers, communicators
+and teachers at all levels to help create an informed and
+balanced public perception on the hot issue of GE use in
+agriculture.
+Acknowledgements
+We gratefully acknowledge the reviewers for their critical
+reading and scientific inputs.
+We would also like to thank Paola Carchedi of the
+library of the Faculty of Agriculture of the University of
+Perugia, Italy, for her collaboration in retrieving the scientific
+literature.
+Declaration of interest
+The authors report no conflicts of interest. The authors
+alone are responsible for the content and writing of this
+article. A.N. acknowledges ABOCA Spa (http://www.
+aboca.com/it) for the financial support on manuscript
+preparation.
+References
+Agodi A, Barchitta M, Grillo A, Sciacca S. (2006). Detection of
+genetically modified DNA sequences in milk from the Italian market.
+Int J Hyg Environ Health, 209, 81–8.
+Ammann K. (2005). Effects of biotechnology on biodiversity: herbicidetolerant and insect-resistant GM crops. Trends Biotechnol, 23,
+388–94.
+Badosa E, Moreno C, Montesinos E. (2004). Lack of detection of
+ampicillin resistance gene transfer from Bt176 transgenic corn to
+culturable bacteria under field conditions. FEMS Microbiol Ecol, 48,
+169–78.
+Figure 3. Distribution of the collected scientific papers. Records classified under the General literature are not shown.
+DOI: 10.3109/07388551.2013.823595 An overview of the last 10 years of GE crop safety research 9
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+Baxter SW, Badenes-Pe´rez FR, Morrison A, et al. (2011). Parallel
+evolution of Bacillus thuringiensis toxin resistance in Lepidoptera.
+Genetics, 189, 675–9.
+Carpenter JE. (2011). Impact of GM crops on biodiversity. GM Crops, 2,
+7–23.
+Ceccherini M, Pote J, Kay E, et al. (2003). Degradation and
+transformability of DNA from transgenic leaves. Appl Environ
+Microbiol, 69, 673–8.
+Chainark P, Satoh S, Hino T, et al. (2006). Availability of genetically
+modified soybean meal in rainbow trout Oncorhynchus mykiss diets.
+Fisheries Sci, 72, 1072–8.
+Chainark P, Satoh S, Hirono I, et al. (2008). Availability of genetically modified feed ingredient: investigations of ingested foreign
+DNA in rainbow trout Oncorhynchus mykiss. Fisheries Sci, 74,
+380–90.
+Chandler S, Dunwell JM. (2008). Gene flow, risk assessment and the
+environmental release of transgenic plants. Crit Rev Plant Sci, 27,
+25–49.
+Colbach N. (2008). How to model and simulate the effects of cropping
+systems on population dynamics and gene flow at the landscape
+level: example of oilseed rape volunteers and their role for
+co-existence of GM and non-GM crops. Environ Sci Pollut Res Int,
+16, 348–60.
+Colquhoun IJ, Le Gall G, Elliott KA, et al. (2006). Shall I compare thee
+to a GM potato? Trends Genet, 22, 525–8.
+Davison J, Bertheau, Y. (2007). EU regulations on the traceability and
+detection of GMOs: difficulties in interpretation, implementation and
+compliance. CAB Rev, 2, 1–14.
+D’Costa VM, McGrann KM, Hughes DW, Wright GD. (2006). Sampling
+the antibiotic resistome. Science, 311, 374–7.
+de Castro TR, Ausique JJS, Nunes DH, et al. (2012). Risk assessment
+of Cry toxins of Bacillus thuringiensis on the predatory mites Euseius
+concordis and Neoseiulus californicus (Acari: Phytoseiidae).
+Exp Appl Acarol, 59, 421–33.
+de Vendoˆmois JS, Roullier F, Cellier D, Se´ralini G-E. (2009).
+A comparison of the effects of three GM corn varieties on mammalian
+health. Int J Biol Sci, 5, 706–6.
+de Vries J, Heine M, Harms K, Wackernagel W. (2003). Spread
+of recombinant DNA by roots and pollen of transgenic potato
+plants, identified by highly specific biomonitoring using natural
+transformation of an Acinetobacter sp. Appl Environ Microbiol, 69,
+4455–62.
+Delaney B, Astwood JD, Cunny H, et al. (2008). Evaluation of protein
+safety in the context of agricultural biotechnology. Food Chem
+Toxicol, 46, S71–97.
+Demane`che S, Monier JM, Dugat-Bony E, Simonet P. (2011).
+Exploration of horizontal gene transfer between transplastomic
+tobacco and plant-associated bacteria. FEMS Microbiol Ecol, 78,
+129–36.
+Demane`che S, Sanguin H, Pote´ J, et al. (2008). Antibiotic-resistant soil
+bacteria in transgenic plant fields. PNAS, 105, 3957–62.
+Demont M, Devos Y. (2008). Regulating coexistence of GM and
+non-GM crops without jeopardizing economic incentives. Trends
+Biotechnol, 26, 353–8.
+Devos Y, Cougnon M, Thas O, Reheul D. (2008). A method to search
+for optimal field allocations of transgenic maize in the context of
+co-existence. Environ Biosafety Res, 7, 97–104.
+Devos Y, De Schrijver A, De Clercq P, et al. (2012). Bt-maize event
+MON 88017 expressing Cry3Bb1 does not cause harm to non-target
+organisms. Transgenic Res, 21, 1191–214.
+Dixelius C, Fagerstro¨m T, Sundstro¨m JF. (2012). European agricultural
+policy goes down the tubers. Nat Biotechnol, 30, 492–3.
+Domingo JL, Gine´ Bordonaba J. (2011). A literature review on the
+safety assessment of genetically modified plants. Environment Int, 37,
+734–2.
+Dona A, Arvanitoyannis IS. (2009). Health risks of genetically modified
+foods. Crit Rev Food Sci Nutr, 49, 164–75.
+EFSA. (2007). EFSA reaffirms its risk assessment of genetically
+modified maize MON 863. Available from: http://www.efsa.europa.
+eu/en/press/news/gmo070628.htm [last accessed 1 Aug 2013].
+EFSA. (2008). Safety and nutritional assessment of GM plants and
+derived food and feed: the role of animal feeding trials. Food Chem
+Toxicol, 46, S2–70.
+EFSA. (2011). Guidance for risk assessment of food and feed from
+genetically modified plants. EFSA J, 9, 2150(1–37).
+EFSA. (2012). EFSA publishes initial review on GM maize and
+herbicide study. Available from: http://www.efsa.europa.eu/en/press/
+news/121004.htm [last accessed 1 Aug 2013].
+European Commission. (2006). New case studies on the coexistence
+of GM and non-GM crops in European agriculture. Available from:
+http://ftp.jrc.es/EURdoc/eur22102en.pdf [last accessed 1 Aug 2013].
+European Commission. (2010). A decade of EU-funded GMO research.
+Available from: http://ec.europa.eu/research/biosociety/pdf/a_decade_
+of_eu-funded_gmo_research.pdf [last accessed 1 Aug 2013].
+Ferradini N, Nicolia A, Capomaccio S, et al. (2011). Assessment of
+simple marker-free genetic transformation techniques in alfalfa.
+Plant Cell Rep, 30, 1991–2000.
+Foetzki A, Quijano CD, Moullet O, et al. (2012). Surveying of pollenmediated crop-to-crop gene flow from a wheat field trial as a biosafety
+measure. GM Crops & Food, 3, 115–22.
+Forsberg KJ, Reyes A, Wang B, et al. (2012). The shared antibiotic
+resistome of soil bacteria and human pathogens. Science, 337,
+1107–11.
+Forsman A, Ushameckis D, Bindra A, et al. (2003). Uptake of
+amplifiable fragments of retrotransposon DNA from the human
+alimentary tract. Mol Genet Genomics, 270, 362–8.
+Gassmann AJ, Petzold-Maxwell JL, Keweshan RS, Dunbar MW. (2011).
+Field-evolved resistance to Bt maize by western corn rootworm.
+PLoS ONE, 6, e22629(1–7).
+Gatehouse AMR, Ferry N, Edwards MG, Bell HA. (2011). Insectresistant biotech crops and their impacts on beneficial arthropods.
+Philos Trans R Soc Lond B Biol Sci, 366, 1438–52.
+Gibson J. (2006). Bioinformatics of protein allergenicity. Mol Nutr Food
+Res, 50, 591(1).
+Go´mez-Galera S, Twyman RM, Sparrow PAC, et al. (2012). Field trials
+and tribulations—making sense of the regulations for experimental
+field trials of transgenic crops in Europe. Plant Biotechnol J, 10,
+511–23.
+Gruber S, Pekrun C, Claupein W. (2005). Life cycle and potential gene
+flow of volunteer oilseed rape in different tillage systems. Weed Res,
+45, 83–93.
+Gryson N, Eeckhout M, Trouillier A, et al. (2009). Strategies for
+coexistence of GM and non-GM soy from import to feed processing.
+Environ Biosafety Res, 8, 153–9.
+Gryson N. (2010). Effect of food processing on plant DNA degradation
+and PCR-based GMO analysis: a review. Anal Bioanal Chem, 396,
+2003–22.
+Houllier F. (2012). Biotechnology: bring more rigour to GM research.
+Nature, 491, 327(1).
+Holst-Jensen A, Bertheau Y, de Loose M, et al. (2012). Detecting unauthorized genetically modified organisms (GMOs) and derived
+materials. Biotechnol Adv, 30, 1318–1335.
+ILSI. (2008). Nutritional and safety assessments of foods and feeds
+nutritionally improved through biotechnology: case studies. Available
+from: http://www.ilsi.org/foodbiotech/publications/10_ilsi2008_case
+studies_crfsfs.pdf [last accessed 1 Aug 2013].
+Ivashuta SI, Petrick JS, Heisel SE, et al. (2009). Endogenous small RNAs
+in grain: semi-quantification and sequence homology to human and
+animal genes. Food Chem Toxicol, 47, 353–60.
+Jacobsen E, Schouten HJ. (2007). Cisgenesis strongly improves introgression breeding and induced translocation breeding of plants.
+Trends Biotechnol, 25, 219–23.
+Jaffe G. (2004). Regulating transgenic crops: a comparative analysis of
+different regulatory processes. Transgenic Res, 13, 5–19.
+James C. (2011). Global status of commercialized biotech/GM crops.
+ISAAA Brief, 43, 1–324.
+Jhala AJ, Bhatt H, Topinka K, Hall LM. (2011). Pollen-mediated gene
+flow in flax (Linum usitatissimum L.): can genetically engineered and
+organic flax coexist? Heredity, 106, 557–66.
+Kalaitzandonakes N, Alston JM, Bradford KJ. (2007). Compliance
+costs for regulatory approval of new biotech crops. Nat Biotechnol,
+25, 509–11.
+Kier LD, Petrick JS. (2008). Safety assessment considerations for food
+and feed derived from plants with genetic modifications that modulate
+endogenous gene expression and pathways. Food Chem Toxicol, 46,
+2591–605.
+10 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+Kok EJ, Keijer J, Kleter GA, Kuiper HA. (2008). Comparative safety
+assessment of plant-derived foods. Regul Toxicol Pharmacol, 50,
+98–113.
+Kok EJ, Kuiper HA. (2003). Comparative safety assessment for biotech
+crops. Trends Biotechnol, 21, 439–44.
+Ko¨nig A, Cockburn A, Crevel RWR, et al. (2004). Assessment of the
+safety of foods derived from genetically modified (GM) crops. Food
+Chem Toxicol, 42, 1047–88.
+Kwit C, Moon HS, Warwick SI, Stewart Jr, CN. (2011). Transgene
+introgression in crop relatives: molecular evidence and mitigation
+strategies. Trends Biotechnol, 29, 284–93.
+Ladics GS, Cressman RF, Herouet-Guicheney C, et al. (2011).
+Bioinformatics and the allergy assessment of agricultural biotechnology products: industry practices and recommendations. Regul Toxicol
+Pharmacol, 60, 46–53.
+Langhof M, Hommel B, Hu¨sken A, et al. (2010). Coexistence
+in maize: isolation distance in dependence on conventional
+maize field depth and separate edge harvest. Crop Science, 50,
+1496–508.
+Laursen L. (2012). BASF moves GM crop research to US. Nat
+Biotechnol, 30, 204(1).
+Lo¨chte B. (2012). Plant research in Europe: few new GM plants.
+Available from: http://www.gmo-safety.eu/news/1416.plant-researcheurope-genetic-engineering-field-trials.html [last accessed 1 Aug
+2013].
+Londo JP, Bautista NS, Sagers CL, et al. (2010). Glyphosate drift
+promotes changes in fitness and transgene gene flow in canola
+(Brassica napus) and hybrids. Ann Bot, 106, 957–65.
+Lo¨vei GL, Arpaia S. (2005). The impact of transgenic plants on natural
+enemies: a critical review of laboratory studies. Entomol Exp Appl,
+114, 1–14.
+Lo¨vei GL, Andow DA, Arpaia S. (2009). Transgenic insecticidal crops
+and natural enemies: a detailed review of laboratory studies. Environ
+Entomol, 38, 293–306.
+Lu Y, Wu K, Jiang Y, et al. (2012). Widespread adoption of Bt cotton
+and insecticide decrease promotes biocontrol services. Nature, 487,
+362–5.
+Ma BL, Blackshaw RE, Roy J, He T. (2011). Investigation on gene
+transfer from genetically modified corn (Zea mays L.) plants to soil
+bacteria. J Environ Sci Health, Part B: Pestic, Food Contam, Agric
+Wastes, 46, 590–9.
+Mallory-Smith CA, Sanchez Olguin E. (2011). Gene flow from
+herbicide-resistant crops: its not just for transgenes. J Agric Food
+Chem, 59, 5813–18.
+Mazza R, Soave M, Morlacchini M, et al. (2005). Assessing the transfer
+of genetically modified DNA from feed to animal tissues. Transgenic
+Res, 14, 775–84.
+McHughen A, Smyth S. (2008). US regulatory system for genetically
+modified [genetically modified organism (GMO), rDNA or transgenic] crop cultivars. Plant Biotechnol J, 6, 2–12.
+Melnyk CW, Molnar A, Baulcombe DC. (2011). Intercellular and
+systemic movement of RNA silencing signals. EMBO J, 30, 3553–63.
+Mittelbrunn M, Sa´nchez-Madrid F. (2012). Intercellular communication:
+diverse structures for exchange of genetic information. Nat Rev Mol
+Cell Biol, 13, 328–35.
+Mizuguti A, Ohigashi K, Yoshimura Y, et al. (2010). Hybridization
+between GM soybean (Glycine max (L.) Merr.) and wild soybean
+(Glycine soja Sieb. et Zucc.) under field conditions in Japan. Environ
+Biosafety Res, 9, 13–23.
+Nielsen KM. (2003). An assessment of factors affecting the likelihood
+of horizontal transfer of recombinant plant DNA to bacterial recipients
+in the soil and phytosphere. Collection Biosafety Rev, 1, 98–151.
+Nordlee JA, Taylor SL, Townsend JA, et al. (1996). Identification of
+a Brazil-nut allergen in transgenic soybeans. N Engl J Med, 334,
+688–92.
+Paoletti C, Heissenberger A, Mazzara M, et al. (2006). Kernel lot
+distribution assessment (KeLDA): a study on the distribution of
+GMO in large soybean shipments. Eur Food Res Technol, 224,
+129–39.
+Parrot W, Chassy B. (2009). Is this study believable? Examples
+from Animal Studies with GM Foods. Available from: http://
+agribiotech.info/details/Is%20This%20Study%20Believable%20V6%
+20final%2002%20print.pdf [last accessed 1 Aug 2013].
+Parrott W, Chassy B, Ligon J, et al. (2010). Application of food and feed
+safety assessment principles to evaluate transgenic approaches to gene
+modulation in crops. Food Chem Toxicol, 48, 1773–90.
+Petrick JS, Brower-Toland B, Jackson AL, Kier LD. (2013).
+Safety assessment of food and feed from biotechnology-derived
+crops employing RNA-mediated gene regulation to achieve
+desired traits: a scientific review. Regul Toxicol Pharmacol, 66,
+167–76.
+Podevin N, du Jardin P. (2012). Possible consequences of the overlap
+between the CaMV 35S promoter regions in plant transformation
+vectors used and the viral gene VI in transgenic plants. GM Crops, 3,
+296–300.
+Querci M, Bulcke M, Zˇ el J, et al. (2010). New approaches in GMO
+detection. Anal Bioanal Chem, 396, 1991–2002.
+Ramessar K, Peremarti A, Go´mez-Galera S, et al. (2007). Biosafety and
+risk assessment framework for selectable marker genes in transgenic
+crop plants: a case of the science not supporting the politics.
+Transgenic Res, 16, 261–80.
+Ramessar K, Capell T, Twyman RM, et al. (2008). Trace and
+traceability—a call for regulatory harmony. Nat Biotechnol, 26,
+975–8.
+Raven PH. (2010). Does the use of transgenic plants diminish or promote
+biodiversity? New Biotechnol, 27, 528–33.
+Reichman JR, Watrud LS, Lee EH, et al. (2006). Establishment of
+transgenic herbicide-resistant creeping bentgrass (Agrostis stolonifera
+L.) in nonagronomic habitats. Mol Ecol, 15, 4243–55.
+Ricroch AE, Berge´ JB, Kuntz M. (2011). Evaluation of genetically
+engineered crops using transcriptomic, proteomic, and metabolomic
+profiling techniques. Plant Physiol, 155, 1752–61.
+Rizzi A, Raddadi N, Sorlini C, et al. (2012). The stability and
+degradation of dietary DNA in the gastrointestinal tract of mammals: implications for horizontal gene transfer and the biosafety of
+GMOs. Crit Rev Food Sci Nutr, 52, 142–61.
+Romeis J, McLean MA, Shelton AM. (2013). When bad science makes
+good headlines: Bt maize and regulatory bans. Nat Biotechnol, 31,
+386–7.
+Rommens CM. (2004). All-native DNA transformation: a new approach
+to plant genetic engineering. Trends Plant Sci, 9, 457–64.
+Rosellini D. (2011). Selectable marker genes from plants: reliability and
+potential. In Vitro Cell Dev–Pl, 47, 222–33.
+Rosellini D. (2012). Selectable markers and reporter genes: a well
+furnished toolbox for plant science and genetic engineering. Crit Rev
+Plant Sci, 31, 401–53.
+Ru¨hl G, Hommel B, Hu¨sken A, et al. (2011). Coexistence in maize:
+effect on pollen-mediated gene flow by conventional maize border rows edging genetically modified maize fields. Crop Sci, 51,
+1748–56.
+Sanahuja G, Banakar R, Twyman RM, et al. (2011). Bacillus
+thuringiensis: a century of research, development and commercial
+applications. Plant Biotechnol J, 9, 283–300.
+Schafer MG, Ross AA, Londo JP, et al. (2011). The establishment of
+genetically engineered canola populations in the U.S. PLoS ONE, 6,
+e25736(1–4).
+Schoenenberger N, Guadagnuolo R, Savova-Bianchi D, et al. (2006).
+Molecular analysis, cytogenetics and fertility of introgression lines
+from transgenic wheat to Aegilops cylindrica host. Genetics, 174,
+2061–70.
+Shaner DL, Lindenmeyer RB, Ostlie MH. (2012). What have the
+mechanisms of resistance to glyphosate taught us? Pest Manag Sci,
+68, 3–9.
+Sharma R, Damgaard D, Alexander TW, et al. (2006). Detection of
+transgenic and endogenous plant DNA in digesta and tissues of sheep
+and pigs fed roundup ready canola meal. J Agric Food Chem, 54,
+1699–709.
+Shelton A, Naranjo S, Romeis J, et al. (2009). Setting the record straight:
+a rebuttal to an erroneous analysis on transgenic insecticidal crops and
+natural enemies. Transgenic Res, 18, 317–22.
+Se´ralini G-E, Cellier D, Vendomois JS. (2007). New analysis of a rat
+feeding study with a genetically modified maize reveals signs of
+hepatorenal toxicity. Arch Environ Contam Toxicol, 52, 596–602.
+Se´ralini G-E, Clair E, Mesnage R, et al. (2012). Long term toxicity of a
+Roundup herbicide and a Roundup-tolerant genetically modified
+maize. Food Chem Toxicol, 50, 4221–31.
+DOI: 10.3109/07388551.2013.823595 An overview of the last 10 years of GE crop safety research 11
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
+Siruguri V, Sesikeran B, Bhat RV. (2004). Starlink genetically modified
+corn and allergenicity in an individual. J Allergy Clin Immunol, 113,
+1003–4; author reply 1004–5.
+Trapmann S, Corbisier P, Schimmel H, Emons H. (2009). Towards future
+reference systems for GM analysis. Anal Bioanal Chem, 396,
+1969–75.
+Udenigwe CC, Aluko RE. (2012). Food protein-derived bioactive
+peptides: production, processing, and potential health benefits.
+J Food Sci, 77, R11–24.
+Vain P. (2007). Thirty years of plant transformation technology
+development. Plant Biotechnol J, 5, 221–9.
+van den Eede G, Aarts H, Buhk HJ, et al. (2004). The relevance of gene
+transfer to the safety of food and feed derived from genetically
+modified (GM) plants. Food Chem Toxicol, 42, 1127–56.
+Verbruggen E, Kuramae EE, Hillekens R, et al. (2012). Testing potential
+effects of maize expressing the Bacillus thuringiensis Cry1Ab
+endotoxin (Bt Maize) on mycorrhizal fungal communities via DNAand RNA-based pyrosequencing and molecular fingerprinting.
+Appl Environ Microbiol, 78, 7384–92.
+Walsh MC, Buzoianu SG, Gardiner GE, et al. (2011). Fate of transgenic
+DNA from orally administered Bt MON810 maize and effects on
+immune response and growth in pigs. PLoS ONE, 6, e27177(1–12).
+Warwick SI, Le´ge`re A, Simard MJ, James T. (2008). Do escaped
+transgenes persist in nature? The case of an herbicide resistance
+transgene in a weedy Brassica rapa population. Mol Ecol, 17,
+1387–95.
+Weber N, Halpin C, Hannah LC, et al. (2012). Crop genome plasticity
+and its relevance to food and feed safety of genetically engineered
+breeding stacks. Plant Physiol, (in press).
+Wilcks A, Jacobsen B. (2010). Lack of detectable DNA uptake
+by transformation of selected recipients in mono-associated rats.
+BMC Res Notes, 3, 49(1–6).
+Wolfenbarger LL, Naranjo SE, Lundgren JG, et al. (2011). Bt crop
+effects on functional guilds of non-target arthropods: a meta-analysis.
+PLoS ONE, 3, e2128(1–11).
+Yu B, Yang Z, Li J, et al. (2005). Methylation as a crucial step in plant
+microRNA biogenesis. Science, 307, 932–5.
+Zapiola ML, Mallory-Smith CA. (2012). Crossing the divide: gene flow
+produces intergeneric hybrid in feral transgenic creeping bentgrass
+population. Mol Ecol, 21, 4672–80.
+Zhang L, Hou D, Chen X, et al. (2012a). Exogenous plant MIR168a
+specifically targets mammalian LDLRAP1: evidence of crosskingdom regulation by microRNA. Cell Res, 22, 107–26.
+Zhang Y, Wiggins BE, Lawrence C, et al. (2012b). Analysis of
+plant-derived miRNAs in animal small RNA datasets. BMC
+Genomics, 13, 381(1–8).
+Zhou XH, Dong Y, Wang Y, et al. (2012). A three generation study
+with high-lysine transgenic rice in Sprague-Dawley rats. Food Chem
+Toxicol, 50, 1902–10.
+Zhou XH, Dong Y, Xiao X, et al. (2011). A 90-day toxicology study
+of high-amylose transgenic rice grain in Sprague-Dawley rats.
+Food Chem Toxicol, 49, 3112–18.
+Supplementary material available online
+Supplementary Table S1
+12 A. Nicolia et al. Crit Rev Biotechnol, Early Online: 1–12
+Critical Reviews in Biotechnology Downloaded from informahealthcare.com by SLU Library - Swedish University of Agricultural Sciences on 09/23/13
+For personal use only.
